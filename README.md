@@ -31,11 +31,11 @@ Além disso, as blockchains também usam chaves criptográficas para garantir a 
 
 As estruturas de dados usadas em uma blockchain são:
 
-- Lista encadeada: É utilizada para organizar os blocos da blockchain.
-- Função HASH: É utilizada para o encadeamento entre blocos e também para garantir a integridade destes blocos.
-- Árvore de Merkle: É utilizada para armazenar as transações em um bloco e permitir a verificação da integridade das transações sem a necessidade de verificar todas elas.
-- Criptografia assimétrica: É utilizada para assinatura de transações armazenadas nos blocos e para identidade dos participantes da blockchain.
-- Redes peer-to-peer (P2P): São utilizadas para a distribuição em diversos nós, eliminando, por exemplo, ponto único de falha.
+- **Lista encadeada:** É utilizada para organizar os blocos da blockchain. Um exemplo pode ser estudado [aqui](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/linkedlist) 
+- **Função HASH:** É utilizada para o encadeamento entre blocos e também para garantir a integridade destes blocos. Um exemplo pode ser estudado [aqui](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/hash) 
+- **Árvore de Merkle:** É utilizada para armazenar as transações em um bloco e permitir a verificação da integridade das transações sem a necessidade de verificar todas elas.
+- **Criptografia assimétrica:** É utilizada para assinatura de transações armazenadas nos blocos e para identidade dos participantes da blockchain.
+- **Redes peer-to-peer (P2P):** São utilizadas para a distribuição em diversos nós, eliminando, por exemplo, ponto único de falha.
 
 ## Blocos
 Um bloco em blockchain é uma estrutura de dados que armazena um conjunto de transações que são validadas e adicionadas à cadeia de blocos por meio de um mecanismo de consenso. Um bloco em blockchain tem as seguintes características:
