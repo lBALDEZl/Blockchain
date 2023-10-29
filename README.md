@@ -1,3 +1,13 @@
+# Estrutura do projeto
+Este projeto com seus código e documentação tem finalidade didática para explicar como funciona uma blockchain.
+
+A estrutura é composta por esta Introdução, paras dar uma visão em geral de como funciona um blockchain, suas caraterísticas,algoritmos envolvidos e de duas partes:
+
+1. [Estrutura de dados](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/) para entender quais estruturas básicas são utilizadas. Contém exemplos e códigos
+2. [Blockchain](https://github.com/claulis/blockchain-basic/tree/main/blockchain) com 2 exemplos, um simples e outro mais completo com mineração.
+
+Todos os exemplos são feitos em Javascript e Nodejs para testes, o ambiente de desenvolvimento utilizado foi VS Code
+
 # Introdução
 A blockchain é um grande banco de dados(**Distributed Ledger**) compartilhado que registra as transações dos usuários.
 A rede do Bitcoin, a primeira do mercado, guarda informações como quantidade de criptomoedas transferidas entre os usuários; identificação (endereço digital) de quem enviou e quem recebeu os valores; e data e hora das transações. 
