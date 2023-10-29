@@ -55,7 +55,8 @@ Arrays e listas encadeadas (linked lists) são duas estruturas de dados usadas p
 
 1. Instale o Nodejs
 2. Instale o VS Code
-3. Abra um novo Terminal e execute na pasta do código este comando `node linkdelist.js`
+3. Abra um novo Terminal e execute na pasta do código este comando `node linkdelist.js`. Qual será o resultado?
+
 
 O resultado da execução será
 ```powershell
