@@ -58,8 +58,8 @@ Um bloco em blockchain é uma estrutura de dados que armazena um conjunto de tra
 ## Referências
 
 DI PIERRO, Massimo. What is the blockchain?. Computing in Science & Engineering, v. 19, n. 5, p. 92-95, 2017.
-ETHEREUM FOUNDATION. Documentação para desenvolvedores. Ethereum, 2023. Disponível em: <https://ethereum.org/en/developers/docs/>. Acesso em: 06 nov. 2023.
-GUPTA, Sourav Sen. Blockchain. IBM Onlone (http://www. IBM. COM), 2017.
+ETHEREUM FOUNDATION. Documentação para desenvolvedores. Ethereum, 2023. Disponível em: https://ethereum.org/en/developers/docs/. Acesso em: 06 nov. 2023.
+GUPTA, Sourav Sen. Blockchain. IBM Online, 2017. Disponível em: http://www.IBM.COM. Acesso em: 06 nov. 2023.
 NOFER, Michael et al. Blockchain. Business & Information Systems Engineering, v. 59, p. 183-187, 2017.
 TAPSCOTT, Don; TAPSCOTT, Alex. Blockchain revolution. Senai-SP Editora, 2018.
 
