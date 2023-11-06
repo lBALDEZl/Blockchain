@@ -55,6 +55,24 @@ Um bloco em blockchain é uma estrutura de dados que armazena um conjunto de tra
 - **Tamanho**: É o espaço ocupado pelo bloco na memória. O tamanho do bloco depende do número e do tipo de transações que ele contém, bem como do protocolo da rede blockchain. Por exemplo, o tamanho máximo do bloco no Bitcoin é de 1 MB, enquanto no Ethereum é variável e depende da complexidade das transações.
 - **Recompensa**: É o incentivo dado aos nós que validam os blocos e contribuem para a segurança e a descentralização da rede. A recompensa consiste em novas unidades de criptomoedas geradas pelo protocolo e em taxas pagas pelos usuários que realizam as transações. A recompensa varia de acordo com a rede blockchain e tende a diminuir ao longo do tempo.
 
+## Referências
+
+DI PIERRO, Massimo. What is the blockchain?. Computing in Science & Engineering, v. 19, n. 5, p. 92-95, 2017.
+ETHEREUM FOUNDATION. Documentação para desenvolvedores. Ethereum, 2023. Disponível em: <https://ethereum.org/en/developers/docs/>. Acesso em: 06 nov. 2023.
+GUPTA, Sourav Sen. Blockchain. IBM Onlone (http://www. IBM. COM), 2017.
+NOFER, Michael et al. Blockchain. Business & Information Systems Engineering, v. 59, p. 183-187, 2017.
+TAPSCOTT, Don; TAPSCOTT, Alex. Blockchain revolution. Senai-SP Editora, 2018.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
