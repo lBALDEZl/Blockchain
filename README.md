@@ -1,4 +1,15 @@
 # Estrutura do projeto
+
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+[![Blockchain](https://img.shields.io/badge/Blockchain-Technology-000000?style=flat)](https://en.wikipedia.org/wiki/Blockchain)
+
+
+
+
+
 Este projeto com seus código e documentação tem finalidade didática para explicar como funciona uma blockchain.
 
 A estrutura é composta por esta Introdução, paras dar uma visão em geral de como funciona um blockchain, suas caraterísticas,algoritmos envolvidos e de duas partes:
