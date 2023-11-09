@@ -25,6 +25,16 @@ A rede do Bitcoin, a primeira do mercado, guarda informações como quantidade d
 A diferença entre uma blockchain como a do BTC e os bancos de dados “tradicionais” é que ela não é controlada por autoridades, como bancos, governos, empresas ou grupos. O sistema foi construído de tal maneira que os participantes (chamados de nós) são os controladores e auditores de tudo – e tomam as decisões sobre a rede. Há uma cópia da blockchain nos computadores de todos os envolvidos, espalhados por todo o mundo. 
 Portanto, cada membro, esteja no Brasil, nos Estados Unidos ou no Japão, vê a mesma informação quando acessa o sistema. Nenhuma alteração pode ser feita sem a aprovação da coletividade. Os dados também são imutáveis – ou seja, se as transferências foram validadas e registradas, são eternas e não podem ser alteradas. Todo esse funcionamento é viável por causa de mecanismos de consenso que estabelecem algumas regras.
 
+# Objetivo Geral do Projeto
+
+- Desenvolver um exemplo funcionante de estrutura blockchain em Javascript
+
+## Objetivos Específicos
+
+- Estudar as estruturas de dados que compôem a blockchain
+- Desenvolver um exemplo básico de blockchain em Javascript
+- Testar e verificar o funcionamento de uma estrutura básica blockchain
+   
 # Conceito de Distributed Lendger - Livro razão distribuído
 Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada. Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada 
 
