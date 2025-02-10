@@ -100,3 +100,8 @@ Raiz da Árvore de Merkle: ca47e460e0575d0642d1b53a81a657132f2f3102af1de114de6ac
 ```
 
 Como podemos ver modificando mesmo que levemente a estrutura tudo muda o resultado do hash será completamente diferente.
+
+## Referências bibliográficas
+Jing, S., Zheng, X., & Chen, Z. (2021). Review and Investigation of Merkle Tree’s Technical Principles and Related Application Fields. 2021 International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA), 86-90. https://doi.org/10.1109/CAIBDA53561.2021.00026.
+
+Liu, H., Luo, X., Liu, H., & Xia, X. (2021). Merkle Tree: A Fundamental Component of Blockchains. 2021 International Conference on Electronic Information Engineering and Computer Science (EIECS), 556-561. https://doi.org/10.1109/EIECS53707.2021.9588047.
