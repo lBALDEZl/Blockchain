@@ -2,6 +2,9 @@
 Uma árvore de Merkle é uma estrutura de dados usada para verificar a integridade e autenticidade de conjuntos de dados, como blocos de dados ou transações, em sistemas de armazenamento ou transmissão. Ela é nomeada em homenagem ao matemático Ralph Merkle, que a propôs em 1979.
 As árvores de Merkle têm várias aplicações, sendo mais notáveis em sistemas de blockchain, onde garantem a segurança e a integridade das transações e blocos. Elas também são usadas em sistemas de armazenamento distribuído e em verificações de autenticidade de dados em sistemas de segurança digital. Essas árvores permitem uma maneira eficiente e confiável de verificar grandes volumes de dados sem a necessidade de transferir ou armazenar todos os dados originais.
 
+![Merkle Tree](https://github.com/user-attachments/assets/6eda3764-2127-4445-999c-2ad984702551)
+
+
 ## Para que serve
 A árvore de Merkle é usada para verificar a integridade dos dados da seguinte maneira:
 
