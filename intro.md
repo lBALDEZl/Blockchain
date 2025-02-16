@@ -27,6 +27,19 @@ Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, e
 
 O artigo completo [aqui](https://101blockchains.com/pt/historia-da-tecnologia-blockchain/)[1].
 
+# A primeira transação em Blockchain
+A primeira transação de Bitcoin foi realizada em 12 de janeiro de 2009, apenas nove dias após o lançamento da rede Bitcoin. Satoshi Nakamoto, o criador anônimo do Bitcoin, enviou 10 Bitcoins para Hal Finney, um respeitado cientista da computação e entusiasta da criptografia.
+
+### Detalhes da Transação
+
+- **Data**: 12 de janeiro de 2009
+- **Participantes**: Satoshi Nakamoto e Hal Finney
+- **Valor**: 10 BTC
+- **Significado**: Esta transação foi um marco histórico, pois demonstrou que o Bitcoin funcionava como um meio de transferência de valores, validando a viabilidade da criptomoeda como um sistema monetário digital.
+
+Hal Finney, que recebeu a primeira transação, era conhecido por seu trabalho em sistemas criptográficos e foi uma das primeiras pessoas a operar a rede Bitcoin. A transação não só marcou o início das operações com Bitcoin, mas também estabeleceu as bases para o crescimento futuro da criptomoeda.
+
+
 # Inovações Trazidas pelo Blockchain
 
 Criptomoedas e Tokens Digitais: Inicialmente, o blockchain foi a base para o Bitcoin, a primeira moeda digital descentralizada. Além disso, possibilitou a criação de tokens digitais que podem representar ativos escassos, democratizando o empreendedorismo e a inovação (Chen, 2017; Chen & Bellavitis, 2019).
