@@ -1,102 +1,130 @@
-# Estrutura do projeto
+# 🔗 Curso de Desenvolvimento Blockchain & Web3 (Fullstack)
 
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-[![Blockchain](https://img.shields.io/badge/Blockchain-Technology-000000?style=flat)](https://en.wikipedia.org/wiki/Blockchain)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=ethereum&logoColor=white)](https://ethereum.org) [![Solidity](https://img.shields.io/badge/Solidity-363636?style=plastic&logo=solidity&logoColor=white)](https://soliditylang.org) [![Hardhat](https://img.shields.io/badge/Hardhat-f5de19?style=plastic&logo=nodedotjs&logoColor=black)](https://hardhat.org) [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://reactjs.org) [![Ethers.js](https://img.shields.io/badge/Ethers.js-purple?style=plastic)](https://docs.ethers.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=plastic&logo=ipfs&logoColor=white)](https://ipfs.tech) [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=plastic&logo=openzeppelin&logoColor=white)](https://docs.openzeppelin.com) [![Alchemy](https://img.shields.io/badge/Alchemy-000000?style=plastic&logo=alchemy&logoColor=blue)](https://www.alchemy.com)
 
 
+---
 
+## 📌 Objetivos do Curso
 
+- Construir smart contracts com **Solidity**
+- Integrar contratos com front-ends modernos usando **Ethers.js + React**
+- Deploy seguro em testnets Ethereum (Goerli/Sepolia)
+- Utilizar padrões da indústria como **ERC-20**, **ERC-721**, **IPFS** e **Chainlink**
+- Desenvolver um **DApp completo**, testado e hospedado
 
-Este projeto com seus código e documentação tem finalidade didática para explicar como funciona uma blockchain.
+---
 
-A estrutura é composta por esta Introdução, paras dar uma visão em geral de como funciona um blockchain, suas caraterísticas,algoritmos envolvidos e de duas partes:
+## 🧠 Pré-requisitos
 
-1. [Estrutura de dados](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/) para entender quais estruturas básicas são utilizadas. Contém exemplos e códigos
-2. [Blockchain](https://github.com/claulis/blockchain-basic/tree/main/blockchain) com 2 exemplos, um simples e outro mais completo com mineração.
+- Conhecimentos intermediários em **JavaScript/TypeScript**
+- Experiência básica com **Git** e terminal
+- Noções de **desenvolvimento web (React é um bônus)**
 
-Todos os exemplos são feitos em Javascript e Nodejs para testes, o ambiente de desenvolvimento utilizado foi VS Code
+---
 
-# Introdução
-A blockchain é um grande banco de dados(**Distributed Ledger**) compartilhado que registra as transações dos usuários.
-A rede do Bitcoin, a primeira do mercado, guarda informações como quantidade de criptomoedas transferidas entre os usuários; identificação (endereço digital) de quem enviou e quem recebeu os valores; e data e hora das transações. 
-A diferença entre uma blockchain como a do BTC e os bancos de dados “tradicionais” é que ela não é controlada por autoridades, como bancos, governos, empresas ou grupos. O sistema foi construído de tal maneira que os participantes (chamados de nós) são os controladores e auditores de tudo – e tomam as decisões sobre a rede. Há uma cópia da blockchain nos computadores de todos os envolvidos, espalhados por todo o mundo. 
-Portanto, cada membro, esteja no Brasil, nos Estados Unidos ou no Japão, vê a mesma informação quando acessa o sistema. Nenhuma alteração pode ser feita sem a aprovação da coletividade. Os dados também são imutáveis – ou seja, se as transferências foram validadas e registradas, são eternas e não podem ser alteradas. Todo esse funcionamento é viável por causa de mecanismos de consenso que estabelecem algumas regras.
+## 🧰 Stack Utilizada
 
-# Objetivo Geral do Projeto
+| Camada       | Ferramentas / Tecnologias                                            |
+|--------------|----------------------------------------------------------------------|
+| Blockchain   | Ethereum, Solidity, Hardhat, Foundry                                 |
+| Frontend     | React, Vite, Ethers.js, Metamask                                     |
+| Deploy       | Infura, Alchemy, IPFS, Fleek, Web3.storage                           |
+| Segurança    | OpenZeppelin, Slither (análise estática)                             |
+| Extras       | Chainlink (oráculos), The Graph (indexação), Push Protocol           |
 
-- Desenvolver um exemplo funcionante de estrutura blockchain em Javascript
+---
 
-## Objetivos Específicos
+## 📚 Conteúdo Programático (80h)
 
-- Estudar as estruturas de dados que compôem a blockchain
-- Desenvolver um exemplo básico de blockchain em Javascript
-- Testar e verificar o funcionamento de uma estrutura básica blockchain
-   
-# Conceito de Distributed Lendger - Livro razão distribuído
-Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada. Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada 
+🔹 MÓDULO 1 – Fundamentos Web3 para Devs (12h)
+ - Conceitos: Blockchain, nodes, contas, transações, EVM
 
-# Funcionamento da Transaction
-Uma transação (Transaction) no blockchain **é uma transferência de dados entre dois ou mais usuários**, que é **registrada de forma imutável em uma rede distribuída**. Uma transação pode representar a **troca de ativos digitais**, como criptomoedas ou tokens, ou a execução de contratos inteligentes, que são programas que executam ações pré-definidas. A blockchain registra transações entre os participantes da rede. A tecnologia blockchain é baseada em quatro fundamentos: o registro compartilhado das transações (ledger), o consenso para verificar as transações, um contrato que determina as regras de funcionamento das transações e a criptografia, que é o fundamento de tudo . Uma transação no blockchain segue as seguintes etapas:
+ - Setup: Node, Hardhat, carteira Metamask, ferramentas CLI
 
-- **Criação**: O usuário que deseja enviar dados cria uma transação com as informações necessárias, como o endereço do destinatário, a quantidade de dados e uma assinatura digital que comprova sua identidade e autoriza a operação.
-- **Propagação**: A transação é transmitida para os outros usuários da rede, chamados de **nós**, que verificam se ela é **válida e não é duplicada**. Os nós que recebem a transação a repassam para os demais, até que todos estejam cientes da operação.
-- **Validação**: Os nós competem entre si para validar as transações e agrupá-las em **blocos**, que são conjuntos de dados que seguem um formato padrão. Para isso, eles precisam resolver um problema matemático complexo, que requer poder computacional e tempo. **O primeiro nó que resolver o problema propõe o novo bloco para a rede**.
-- **Consolidação**: Os outros nós verificam se o bloco proposto está correto e segue as regras da rede. Se houver **consenso entre os nós**, o bloco é adicionado à cadeia de blocos existente, formando um **registro cronológico e inalterável de todas as transações realizadas na rede**. O nó que propôs o bloco recebe uma recompensa em forma de dados ou criptomoedas.
+ - Estrutura básica de projeto Hardhat
 
-### O que acontece se uma transação não for válida?
-**Se um nó não validar uma transação, ele não a incluirá em um bloco e não a propagará para outros nós**. Isso pode acontecer se a transação for inválida, ou seja, se não atender aos critérios definidos pela rede, como o saldo insuficiente do remetente ou a tentativa de gastar a mesma moeda duas vezes. Se a transação for legítima, mas o nó não conseguir validá-la por algum motivo, ela será retransmitida para outros nós que podem validá-la e incluí-la em um bloco. A validação de transações é um processo importante para garantir a integridade e segurança da rede blockchain.
+ - Primeiros contratos e deploy local
 
-# Mineração
-A mineração em blockchain é um processo que visa garantir a segurança e a descentralização de algumas criptomoedas que usam o mecanismo de consenso chamado Prova de Trabalho (PoW). **Os mineradores (miners) usam seus recursos computacionais para verificar e registrar as transações dos usuários em uma blockchain**. Como **recompensa** pelo seu trabalho, os mineradores recebem novas unidades de criptomoedas e taxas de transação. A mineração também controla a emissão de novas moedas, seguindo regras pré-definidas pelo protocolo da criptomoeda. Alguns exemplos de criptomoedas que usam a mineração são o Bitcoin, Ethereum e o Litecoin.
+🔹 MÓDULO 2 – Solidity para Devs (20h)
+ - Tipos, storage vs memory, visibilidade, funções, structs
 
-# Algoritmos, estruturas de dados e blockchain
-- Uma blockchain é uma estrutura de dados que armazena transações em blocos, que são encadeados sequencialmente. 
-- Cada bloco contém um cabeçalho e um conjunto de transações. 
-- O cabeçalho do bloco contém informações como o número do bloco, o hash do bloco anterior, a raiz da árvore de Merkle das transações e um nonce. 
-- As transações são armazenadas em uma árvore de Merkle, que é uma estrutura de dados que permite verificar a integridade das transações sem a necessidade de verificar todas elas. 
+ - Eventos, modifiers, fallback, tratamento de erros
 
-Além disso, as blockchains também usam chaves criptográficas para garantir a autenticidade e a integridade das transações e dos blocos.
+ - Projeto: Contrato ERC20 customizado
 
-As estruturas de dados usadas em uma blockchain são:
+ - Testes automatizados com Hardhat: coverage, mocking, fuzzing simples
 
-- **Lista encadeada:** É utilizada para organizar os blocos da blockchain. Um exemplo pode ser estudado [aqui](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/linkedlist) 
-- **Função HASH:** É utilizada para o encadeamento entre blocos e também para garantir a integridade destes blocos. Um exemplo pode ser estudado [aqui](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/hash) 
-- **Árvore de Merkle:** É utilizada para armazenar as transações em um bloco e permitir a verificação da integridade das transações sem a necessidade de verificar todas elas. Um exemplo pode ser estudado [aqui](https://github.com/claulis/blockchain-basic/tree/main/estruturadados/merkle)
-- **Criptografia assimétrica:** É utilizada para assinatura de transações armazenadas nos blocos e para identidade dos participantes da blockchain.
-- **Redes peer-to-peer (P2P):** São utilizadas para a distribuição em diversos nós, eliminando, por exemplo, ponto único de falha.
+ - Otimização de gas e melhores práticas
 
-## Blocos
-Um bloco em blockchain é uma estrutura de dados que armazena um conjunto de transações que são validadas e adicionadas à cadeia de blocos por meio de um mecanismo de consenso. Um bloco em blockchain tem as seguintes características:
+🔹 MÓDULO 3 – Tokens e Padrões (12h)
+ - ERC-20: lógica de supply, approvals, allowance
 
-- **Cabeçalho**: Contém informações como o número do bloco, o hash do bloco anterior, a raiz da árvore de Merkle das transações e um nonce. O hash do bloco anterior é usado para garantir a imutabilidade e a ordem dos blocos na cadeia. A raiz da árvore de Merkle é usada para verificar a integridade das transações no bloco. O nonce é um valor aleatório usado para resolver o problema matemático que valida o bloco.
-- **Transações**: São as operações realizadas pelos usuários da rede, como a transferência de criptomoedas ou a execução de contratos inteligentes. Cada transação tem um identificador único, uma assinatura digital do remetente, o endereço do destinatário, a quantidade de dados e outras informações opcionais. As transações são organizadas em uma árvore de Merkle, que permite verificar se uma transação pertence ao bloco sem a necessidade de verificar todas elas.
-- **Tamanho**: É o espaço ocupado pelo bloco na memória. O tamanho do bloco depende do número e do tipo de transações que ele contém, bem como do protocolo da rede blockchain. Por exemplo, o tamanho máximo do bloco no Bitcoin é de 1 MB, enquanto no Ethereum é variável e depende da complexidade das transações.
-- **Recompensa**: É o incentivo dado aos nós que validam os blocos e contribuem para a segurança e a descentralização da rede. A recompensa consiste em novas unidades de criptomoedas geradas pelo protocolo e em taxas pagas pelos usuários que realizam as transações. A recompensa varia de acordo com a rede blockchain e tende a diminuir ao longo do tempo.
+ - ERC-721: NFTs com metadata, safeMint, baseURI
 
-## Referências
+ - Projeto: Marketplace NFT com contrato próprio
 
-DI PIERRO, Massimo. What is the blockchain?. Computing in Science & Engineering, v. 19, n. 5, p. 92-95, 2017.
-ETHEREUM FOUNDATION. Documentação para desenvolvedores. Ethereum, 2023. Disponível em: https://ethereum.org/en/developers/docs/. Acesso em: 06 nov. 2023.
-GUPTA, Sourav Sen. Blockchain. IBM Online, 2017. Disponível em: http://www.IBM.COM. Acesso em: 06 nov. 2023.
-NOFER, Michael et al. Blockchain. Business & Information Systems Engineering, v. 59, p. 183-187, 2017.
-TAPSCOTT, Don; TAPSCOTT, Alex. Blockchain revolution. Senai-SP Editora, 2018.
+ - Introdução ao ERC-1155 (multi-token padrão)
 
+🔹 MÓDULO 4 – Front-end com Web3 (12h)
+ - Integração com Ethers.js e React (useEffect, hooks)
 
+ - Conexão com carteiras (Metamask, WalletConnect)
 
+ - Lendo dados da blockchain, ouvindo eventos
 
+ - Transações assinadas pelo usuário
 
+🔹 MÓDULO 5 – Deploy & Infraestrutura Web3 (8h)
+ - Deploy em testnet (Goerli/Sepolia)
 
+ - Infura vs Alchemy
 
+ - IPFS: Upload e pinning via Fleek/Web3.storage
 
+-   Hospedagem descentralizada
 
+🔹 MÓDULO 6 – Segurança e Auditoria (8h)
+ - Vulnerabilidades: reentrancy, overflow, frontrunning
 
+ - Boas práticas de segurança com OpenZeppelin
 
+ - Slither e ferramentas de auditoria estática
 
+ - Padrões de upgrade e proxies (básico)
 
+🔹 MÓDULO 7 – Projeto Final (8h)
+ - Planejamento de DApp real
 
+ - Desenvolvimento orientado (com mentoria)
 
+ - Testes + integração + deploy
 
+ - Apresentação técnica (pitch + código + funcionamento)
 
+---
+
+## 📦 Projetos Desenvolvidos
+
+- ✅ Token ERC-20 com lógica de mint/burn e testes
+- ✅ NFT ERC-721 com metadados e mintagem segura
+- ✅ Marketplace de NFTs (compra, venda, listagem)
+- ✅ DApp final com contrato, front-end e deploy completo
+
+---
+
+## Resultado Esperado
+
+Ao final do curso, você será capaz de:
+
+- Desenvolver smart contracts seguros e auditáveis
+- Integrar contratos com interfaces Web modernas
+- Deployar aplicações descentralizadas prontas para o mundo real
+- Trabalhar ou empreender no ecossistema Web3 com autonomia
+
+---
+
+##  Licença
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md).
