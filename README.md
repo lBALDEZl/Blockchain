@@ -38,7 +38,7 @@
 
 ## 📚 Conteúdo Programático (80h)
 
-🔹 [MÓDULO 1 – Fundamentos Web3 para Devs (12h)](../blockchain/blockchain/)
+🔹 [MÓDULO 1 – Fundamentos Web3 para Devs (12h)](../blockchain/fundamentos/)
  - Conceitos: Blockchain, nodes, contas, transações, EVM
 
  - Setup: Node, Hardhat, carteira Metamask, ferramentas CLI
