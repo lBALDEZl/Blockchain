@@ -38,7 +38,7 @@
 
 ## 📚 Conteúdo Programático (80h)
 
-🔹 MÓDULO 1 – Fundamentos Web3 para Devs (12h)
+🔹 [MÓDULO 1 – Fundamentos Web3 para Devs (12h)](../blockchain/blockchain/)
  - Conceitos: Blockchain, nodes, contas, transações, EVM
 
  - Setup: Node, Hardhat, carteira Metamask, ferramentas CLI
@@ -47,7 +47,7 @@
 
  - Primeiros contratos e deploy local
 
-🔹 MÓDULO 2 – Solidity para Devs (20h)
+🔹 [MÓDULO 2 – Solidity para Devs (20h)](../blockchain/solidity/)
  - Tipos, storage vs memory, visibilidade, funções, structs
 
  - Eventos, modifiers, fallback, tratamento de erros
@@ -58,7 +58,7 @@
 
  - Otimização de gas e melhores práticas
 
-🔹 MÓDULO 3 – Tokens e Padrões (12h)
+🔹 [MÓDULO 3 – Tokens e Padrões (12h)](../blockchain/tokens/)
  - ERC-20: lógica de supply, approvals, allowance
 
  - ERC-721: NFTs com metadata, safeMint, baseURI
@@ -67,7 +67,7 @@
 
  - Introdução ao ERC-1155 (multi-token padrão)
 
-🔹 MÓDULO 4 – Front-end com Web3 (12h)
+🔹 [MÓDULO 4 – Front-end com Web3 (12h)](../blockchain/frontednweb3/)
  - Integração com Ethers.js e React (useEffect, hooks)
 
  - Conexão com carteiras (Metamask, WalletConnect)
@@ -76,16 +76,16 @@
 
  - Transações assinadas pelo usuário
 
-🔹 MÓDULO 5 – Deploy & Infraestrutura Web3 (8h)
+🔹 [MÓDULO 5 – Deploy & Infraestrutura Web3 (8h)](../blockchain/deploy/)
  - Deploy em testnet (Goerli/Sepolia)
 
  - Infura vs Alchemy
 
  - IPFS: Upload e pinning via Fleek/Web3.storage
 
--   Hospedagem descentralizada
+ - Hospedagem descentralizada
 
-🔹 MÓDULO 6 – Segurança e Auditoria (8h)
+🔹 [MÓDULO 6 – Segurança e Auditoria (8h)](../blockchain/security/)
  - Vulnerabilidades: reentrancy, overflow, frontrunning
 
  - Boas práticas de segurança com OpenZeppelin
@@ -94,7 +94,7 @@
 
  - Padrões de upgrade e proxies (básico)
 
-🔹 MÓDULO 7 – Projeto Final (8h)
+🔹 [MÓDULO 7 – Projeto Final (8h)](../blockchain/proejtofinal/)
  - Planejamento de DApp real
 
  - Desenvolvimento orientado (com mentoria)
@@ -111,17 +111,6 @@
 - ✅ NFT ERC-721 com metadados e mintagem segura
 - ✅ Marketplace de NFTs (compra, venda, listagem)
 - ✅ DApp final com contrato, front-end e deploy completo
-
----
-
-## Resultado Esperado
-
-Ao final do curso, você será capaz de:
-
-- Desenvolver smart contracts seguros e auditáveis
-- Integrar contratos com interfaces Web modernas
-- Deployar aplicações descentralizadas prontas para o mundo real
-- Trabalhar ou empreender no ecossistema Web3 com autonomia
 
 ---
 
