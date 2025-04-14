@@ -1,9 +1,9 @@
 # 1. Propósito do Blockchain
 
-O blockchain foi criado para resolver problemas de confiança e segurança em transações digitais, eliminando a necessidade de intermediários. Sua principal inovação é a criação de um sistema descentralizado e imutável que registra transações de forma segura e transparente.
+O blockchain foi criado para resolver problemas de **confiança e segurança** em transações digitais, eliminando a necessidade de intermediários. Sua principal inovação é a criação de um sistema **descentralizado e imutável** que registra transações de forma segura e transparente.
 
-Descentralização e Confiança: O blockchain elimina a necessidade de uma autoridade central, permitindo que as transações sejam verificadas por uma rede distribuída de participantes, aumentando a confiança e a segurança (Zhao et al., 2016; Upadhyay, 2020; Ünalan & Ozcan, 2020).
-Segurança e Imutabilidade: Oferece um registro imutável e seguro das transações, o que é crucial para aplicações em finanças, saúde, transporte e outros setores (Jabbar et al., 2022; Yli-Huumo et al., 2016; Andoni et al., 2019).
+> - Descentralização e Confiança: O blockchain elimina a necessidade de uma autoridade central, permitindo que as transações sejam verificadas por uma rede distribuída de participantes, aumentando a confiança e a segurança (Zhao et al., 2016; Upadhyay, 2020; Ünalan & Ozcan, 2020).
+> - Segurança e Imutabilidade: Oferece um registro imutável e seguro das transações, o que é crucial para aplicações em finanças, saúde, transporte e outros setores (Jabbar et al., 2022; Yli-Huumo et al., 2016; Andoni et al., 2019).
 Transparência e Eficiência: Facilita a transparência e a eficiência em processos de negócios, reduzindo custos de transação e aumentando a velocidade das operações (Zutshi et al., 2021; Andoni et al., 2019).
 
 ## Evolução Histórica
