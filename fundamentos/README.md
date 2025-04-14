@@ -8,9 +8,9 @@ Transparência e Eficiência: Facilita a transparência e a eficiência em proce
 
 ## Evolução Histórica
 
-Início: A ideia de um sistema de registro digital seguro remonta aos anos 1970 e 1990, com contribuições significativas de David Chaum e outros (Sherman et al., 2018; Kulkarni, 2019).
-Bitcoin e Blockchain 1.0: O conceito de blockchain ganhou notoriedade com o lançamento do Bitcoin por Satoshi Nakamoto em 2008, que introduziu a ideia de uma moeda digital descentralizada (Larrier, 2021; Gupta & Sadoghi, 2021; Sharma et al., 2021).
-Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, expandindo o uso do blockchain para além das criptomoedas (U. & Rajagopalan, 2021).
+A ideia de um sistema de registro digital seguro remonta aos anos 1970 e 1990, com contribuições significativas de David Chaum e outros (Sherman et al., 2018; Kulkarni, 2019).
+> - Bitcoin e Blockchain 1.0: O conceito de blockchain ganhou notoriedade com o lançamento do **Bitcoin por Satoshi Nakamoto em 2008**, que introduziu a ideia de uma moeda digital descentralizada (Larrier, 2021; Gupta & Sadoghi, 2021; Sharma et al., 2021).
+> - Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, expandindo o uso do blockchain para além das criptomoedas (U. & Rajagopalan, 2021).
 
 | **Ano**   | **Evento**                                                                                          |
 |-----------|----------------------------------------------------------------------------------------------------|
@@ -56,11 +56,13 @@ Apesar de seu impacto significativo, a identidade de Satoshi Nakamoto permanece 
 
 O trabalho de Satoshi Nakamoto não apenas introduziu uma nova forma de moeda, mas também desencadeou uma revolução tecnológica com potencial para transformar diversos setores da sociedade.
 
+O trabalho pode ser encontrado [aqui](https://bitcoin.org/bitcoin.pdf)
+
 ## Inovações Trazidas pelo Blockchain
 
-Criptomoedas e Tokens Digitais: Inicialmente, o blockchain foi a base para o Bitcoin, a primeira moeda digital descentralizada. Além disso, possibilitou a criação de tokens digitais que podem representar ativos escassos, democratizando o empreendedorismo e a inovação (Chen, 2017; Chen & Bellavitis, 2019).
-Contratos Inteligentes: A evolução para o Blockchain 2.0 introduziu contratos inteligentes, que automatizam e executam acordos sem a necessidade de intermediários (Jabbar et al., 2022).
-Modelos de Negócio Descentralizados: O blockchain está promovendo novos modelos de negócios descentralizados, especialmente no setor financeiro, permitindo serviços financeiros mais inclusivos e inovadores (Andoni et al., 2019; Chen & Bellavitis, 2019).
+**Criptomoedas e Tokens Digitais:** Inicialmente, o blockchain foi a base para o Bitcoin, a primeira moeda digital descentralizada. Além disso, possibilitou a criação de tokens digitais que podem representar ativos escassos, democratizando o empreendedorismo e a inovação (Chen, 2017; Chen & Bellavitis, 2019).
+**Contratos Inteligentes:** A evolução para o Blockchain 2.0 introduziu contratos inteligentes, que automatizam e executam acordos sem a necessidade de intermediários (Jabbar et al., 2022).
+**Modelos de Negócio Descentralizados:** O blockchain está promovendo novos modelos de negócios descentralizados, especialmente no setor financeiro, permitindo serviços financeiros mais inclusivos e inovadores (Andoni et al., 2019; Chen & Bellavitis, 2019).
 
 # 3. Ledgers
 
@@ -73,7 +75,9 @@ Portanto, cada membro, esteja no Brasil, nos Estados Unidos ou no Japão, vê a 
 
 ## Conceito de Distributed Lendger - Livro razão distribuído
 
-Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada. Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada
+>Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada.
+
+Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada
 
 ## Funcionamento da Transaction
 
