@@ -25,7 +25,7 @@ Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, e
 | **2017**  | Lançamento do EOS.IO, um novo protocolo para aplicações descentralizadas.                          |
 | **2018**  | A tecnologia blockchain continua a evoluir, com o aumento no número de criptomoedas e aplicações empresariais. |
 
-O artigo completo [aqui][https://101blockchains.com/pt/historia-da-tecnologia-blockchain/](1).
+O artigo completo [aqui](https://101blockchains.com/pt/historia-da-tecnologia-blockchain/).
 
 ## A primeira transação em Blockchain
 
