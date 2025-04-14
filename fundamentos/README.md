@@ -92,6 +92,8 @@ Uma transação (Transaction) no blockchain **é uma transferência de dados ent
 
 A mineração em blockchain é um processo que visa garantir a segurança e a descentralização de algumas criptomoedas que usam o mecanismo de consenso chamado Prova de Trabalho (PoW). **Os mineradores (miners) usam seus recursos computacionais para verificar e registrar as transações dos usuários em uma blockchain**. Como **recompensa** pelo seu trabalho, os mineradores recebem novas unidades de criptomoedas e taxas de transação. A mineração também controla a emissão de novas moedas, seguindo regras pré-definidas pelo protocolo da criptomoeda. Alguns exemplos de criptomoedas que usam a mineração são o Bitcoin, Ethereum e o Litecoin.
 
+![mineração](assets/images/mineracao.svg)
+
 ## Algoritmos, estruturas de dados e blockchain
 
 - Uma blockchain é uma estrutura de dados que armazena transações em blocos, que são encadeados sequencialmente.
