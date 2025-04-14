@@ -13,6 +13,7 @@ Cada nó contém dois elementos principais:
 Elas servem como uma estrutura de dados fundamental em muitos programas e sistemas de computação. São estruturas dinâmicas, p´raticas e versateis.
 
 Aqui vai alguns exemplos de utilização:
+
 - Histórico de Navegação em Navegadores da Web
 - Gerenciamento de Memória em Linguagens de Programação
 - Listas de Tarefas em Aplicativos
@@ -24,6 +25,7 @@ Aqui vai alguns exemplos de utilização:
 - Implementação de estruturas de dados mais complexas
 
 ## Qual a diferença entre Arrays e Linked List?
+
 Arrays e listas encadeadas (linked lists) são duas estruturas de dados usadas para armazenar coleções de elementos, mas diferem em vários aspectos. Abaixo, vou destacar as principais diferenças entre essas duas estruturas de dados:
 
 1. **Alocação de Memória**:
@@ -50,22 +52,24 @@ Arrays e listas encadeadas (linked lists) são duas estruturas de dados usadas p
 
    - **Linked List**: As listas encadeadas alocam apenas a quantidade necessária de memória para cada elemento. Isso pode economizar espaço, especialmente se a lista for grande e dinamicamente dimensionada.
 
-
 ## Explicando o exemplo
 
 1. Instale o Nodejs
 2. Instale o VS Code
 3. Abra um novo Terminal e execute na pasta do código este comando `node linkdelist.js`. Qual será o resultado?
 
-
 O resultado da execução será
+
 ```powershell
 10 -> 30 -> 40
 10 -> 20 -> 30 -> 40
 10 -> 20 -> 40
 10 -> 20
 ```
+
 O código cria uma lista encadeada e vai adicionando e removendo nós em pontos específicos
+
+![linkedlist](/fundamentos/assets/images/linkedlist.svg)
 
 ### Classe `No`
 
@@ -210,4 +214,3 @@ removerPorPosicao(posicao) {
 - `obterTamanho()`: Retorna o número de nós na lista.
 
 - `imprimir()`: Este método imprime os valores dos nós na lista encadeada, mostrando a sequência de nós na ordem em que estão ligados.
-
