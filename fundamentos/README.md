@@ -1,16 +1,16 @@
 # 1. Propósito do Blockchain
 
-O blockchain foi criado para resolver problemas de confiança e segurança em transações digitais, eliminando a necessidade de intermediários. Sua principal inovação é a criação de um sistema descentralizado e imutável que registra transações de forma segura e transparente.
+O blockchain foi criado para resolver problemas de **confiança e segurança** em transações digitais, eliminando a necessidade de intermediários. Sua principal inovação é a criação de um sistema **descentralizado e imutável** que registra transações de forma segura e transparente.
 
-Descentralização e Confiança: O blockchain elimina a necessidade de uma autoridade central, permitindo que as transações sejam verificadas por uma rede distribuída de participantes, aumentando a confiança e a segurança (Zhao et al., 2016; Upadhyay, 2020; Ünalan & Ozcan, 2020).
-Segurança e Imutabilidade: Oferece um registro imutável e seguro das transações, o que é crucial para aplicações em finanças, saúde, transporte e outros setores (Jabbar et al., 2022; Yli-Huumo et al., 2016; Andoni et al., 2019).
+> - Descentralização e Confiança: O blockchain elimina a necessidade de uma autoridade central, permitindo que as transações sejam verificadas por uma rede distribuída de participantes, aumentando a confiança e a segurança (Zhao et al., 2016; Upadhyay, 2020; Ünalan & Ozcan, 2020).
+> - Segurança e Imutabilidade: Oferece um registro imutável e seguro das transações, o que é crucial para aplicações em finanças, saúde, transporte e outros setores (Jabbar et al., 2022; Yli-Huumo et al., 2016; Andoni et al., 2019).
 Transparência e Eficiência: Facilita a transparência e a eficiência em processos de negócios, reduzindo custos de transação e aumentando a velocidade das operações (Zutshi et al., 2021; Andoni et al., 2019).
 
 ## Evolução Histórica
 
-Início: A ideia de um sistema de registro digital seguro remonta aos anos 1970 e 1990, com contribuições significativas de David Chaum e outros (Sherman et al., 2018; Kulkarni, 2019).
-Bitcoin e Blockchain 1.0: O conceito de blockchain ganhou notoriedade com o lançamento do Bitcoin por Satoshi Nakamoto em 2008, que introduziu a ideia de uma moeda digital descentralizada (Larrier, 2021; Gupta & Sadoghi, 2021; Sharma et al., 2021).
-Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, expandindo o uso do blockchain para além das criptomoedas (U. & Rajagopalan, 2021).
+A ideia de um sistema de registro digital seguro remonta aos anos 1970 e 1990, com contribuições significativas de David Chaum e outros (Sherman et al., 2018; Kulkarni, 2019).
+> - Bitcoin e Blockchain 1.0: O conceito de blockchain ganhou notoriedade com o lançamento do **Bitcoin por Satoshi Nakamoto em 2008**, que introduziu a ideia de uma moeda digital descentralizada (Larrier, 2021; Gupta & Sadoghi, 2021; Sharma et al., 2021).
+> - Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, expandindo o uso do blockchain para além das criptomoedas (U. & Rajagopalan, 2021).
 
 | **Ano**   | **Evento**                                                                                          |
 |-----------|----------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ Blockchain 2.0 e Além: Em 2014, o Ethereum introduziu contratos inteligentes, e
 | **2017**  | Lançamento do EOS.IO, um novo protocolo para aplicações descentralizadas.                          |
 | **2018**  | A tecnologia blockchain continua a evoluir, com o aumento no número de criptomoedas e aplicações empresariais. |
 
-O artigo completo [aqui][https://101blockchains.com/pt/historia-da-tecnologia-blockchain/](1).
+O artigo completo [aqui](https://101blockchains.com/pt/historia-da-tecnologia-blockchain/).
 
 ## A primeira transação em Blockchain
 
@@ -50,17 +50,25 @@ Hal Finney faleceu em 2014 devido à Esclerose Lateral Amiotrófica (ELA) e foi 
 
 Satoshi Nakamoto é o pseudônimo utilizado pelo criador do Bitcoin, a primeira criptomoeda descentralizada, que introduziu o conceito de blockchain como um componente central dessa inovação. Em 2008, Nakamoto publicou o white paper "Bitcoin: A Peer-to-Peer Electronic Cash System", que detalhava um sistema de dinheiro eletrônico que não dependia de uma autoridade central, mas sim de uma rede peer-to-peer para validar transações (Sakız & Gencer, 2020; Pavlus, 2017; Krajewski & Lettiere, 2019; Ornes, 2019).
 
-A tecnologia blockchain, introduzida por Nakamoto, resolve o problema de comunicação segura conhecido como o Problema dos Generais Bizantinos, permitindo transações seguras e imutáveis em um ambiente descentralizado (Czechowicz, 2017). Essa inovação não apenas revolucionou o conceito de moeda digital, mas também abriu caminho para uma ampla gama de aplicações em diversas indústrias, além de inspirar a criação de mais de 6.000 altcoins desde então (Sakız & Gencer, 2020; Krajewski & Lettiere, 2019; Ornes, 2019).
+A tecnologia blockchain, introduzida por Nakamoto, resolve o problema de comunicação segura conhecido como o Problema dos Generais Bizantinos, permitindo transações seguras e imutáveis em um ambiente descentralizado (Czechowicz, 2017). 
+
+>O Problema dos Generais Bizantinos é um conceito fundamental em sistemas distribuídos e teoria dos jogos. Ele descreve o desafio de alcançar um consenso confiável em uma rede onde alguns participantes podem ser desonestos ou falhar.
+A metáfora usada para ilustrar esse problema envolve um grupo de generais que cercam uma cidade inimiga e precisam decidir se atacam ou recuam. O problema surge porque a comunicação entre eles pode ser interceptada ou corrompida, tornando difícil garantir que todos tomem a mesma decisão ao mesmo tempo.
+Esse dilema é especialmente relevante em sistemas computacionais, como redes blockchain e criptomoedas, onde a confiança entre os participantes precisa ser estabelecida sem depender de uma autoridade central. O Bitcoin, por exemplo, resolve esse problema por meio de um mecanismo de consenso descentralizado, garantindo que todas as transações sejam verificadas de forma segura
+
+Essa inovação não apenas revolucionou o conceito de moeda digital, mas também abriu caminho para uma ampla gama de aplicações em diversas indústrias, além de inspirar a criação de mais de 6.000 altcoins desde então (Sakız & Gencer, 2020; Krajewski & Lettiere, 2019; Ornes, 2019).
 
 Apesar de seu impacto significativo, a identidade de Satoshi Nakamoto permanece um mistério, o que contribui para o fascínio em torno de sua figura. Nakamoto desapareceu da cena pública pouco tempo após a publicação do white paper, deixando para trás um legado de inovação tecnológica e uma fortuna em Bitcoin que nunca foi tocada (Ducr'ee, 2022; Ducr'ee, 2022). A narrativa em torno de Nakamoto e sua criação tem gerado um impacto cultural e simbólico, comparável a mitos e lendas, reforçando a coesão e o entusiasmo dentro da comunidade cripto (Ducr'ee, 2022; Faustino et al., 2021).
 
 O trabalho de Satoshi Nakamoto não apenas introduziu uma nova forma de moeda, mas também desencadeou uma revolução tecnológica com potencial para transformar diversos setores da sociedade.
 
+O trabalho pode ser encontrado [aqui](https://bitcoin.org/bitcoin.pdf)
+
 ## Inovações Trazidas pelo Blockchain
 
-Criptomoedas e Tokens Digitais: Inicialmente, o blockchain foi a base para o Bitcoin, a primeira moeda digital descentralizada. Além disso, possibilitou a criação de tokens digitais que podem representar ativos escassos, democratizando o empreendedorismo e a inovação (Chen, 2017; Chen & Bellavitis, 2019).
-Contratos Inteligentes: A evolução para o Blockchain 2.0 introduziu contratos inteligentes, que automatizam e executam acordos sem a necessidade de intermediários (Jabbar et al., 2022).
-Modelos de Negócio Descentralizados: O blockchain está promovendo novos modelos de negócios descentralizados, especialmente no setor financeiro, permitindo serviços financeiros mais inclusivos e inovadores (Andoni et al., 2019; Chen & Bellavitis, 2019).
+**Criptomoedas e Tokens Digitais:** Inicialmente, o blockchain foi a base para o Bitcoin, a primeira moeda digital descentralizada. Além disso, possibilitou a criação de tokens digitais que podem representar ativos escassos, democratizando o empreendedorismo e a inovação (Chen, 2017; Chen & Bellavitis, 2019).
+**Contratos Inteligentes:** A evolução para o Blockchain 2.0 introduziu contratos inteligentes, que automatizam e executam acordos sem a necessidade de intermediários (Jabbar et al., 2022).
+**Modelos de Negócio Descentralizados:** O blockchain está promovendo novos modelos de negócios descentralizados, especialmente no setor financeiro, permitindo serviços financeiros mais inclusivos e inovadores (Andoni et al., 2019; Chen & Bellavitis, 2019).
 
 # 3. Ledgers
 
@@ -73,20 +81,9 @@ Portanto, cada membro, esteja no Brasil, nos Estados Unidos ou no Japão, vê a 
 
 ## Conceito de Distributed Lendger - Livro razão distribuído
 
-Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada. Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada
+>Um livro distribuído é um tipo de banco de dados que é compartilhado, replicado e sincronizado entre os membros de uma rede descentralizada.
 
-## Funcionamento da Transaction
-
-Uma transação (Transaction) no blockchain **é uma transferência de dados entre dois ou mais usuários**, que é **registrada de forma imutável em uma rede distribuída**. Uma transação pode representar a **troca de ativos digitais**, como criptomoedas ou tokens, ou a execução de contratos inteligentes, que são programas que executam ações pré-definidas. A blockchain registra transações entre os participantes da rede. A tecnologia blockchain é baseada em quatro fundamentos: o registro compartilhado das transações (ledger), o consenso para verificar as transações, um contrato que determina as regras de funcionamento das transações e a criptografia, que é o fundamento de tudo . Uma transação no blockchain segue as seguintes etapas:
-
-- **Criação**: O usuário que deseja enviar dados cria uma transação com as informações necessárias, como o endereço do destinatário, a quantidade de dados e uma assinatura digital que comprova sua identidade e autoriza a operação.
-- **Propagação**: A transação é transmitida para os outros usuários da rede, chamados de **nós**, que verificam se ela é **válida e não é duplicada**. Os nós que recebem a transação a repassam para os demais, até que todos estejam cientes da operação.
-- **Validação**: Os nós competem entre si para validar as transações e agrupá-las em **blocos**, que são conjuntos de dados que seguem um formato padrão. Para isso, eles precisam resolver um problema matemático complexo, que requer poder computacional e tempo. **O primeiro nó que resolver o problema propõe o novo bloco para a rede**.
-- **Consolidação**: Os outros nós verificam se o bloco proposto está correto e segue as regras da rede. Se houver **consenso entre os nós**, o bloco é adicionado à cadeia de blocos existente, formando um **registro cronológico e inalterável de todas as transações realizadas na rede**. O nó que propôs o bloco recebe uma recompensa em forma de dados ou criptomoedas.
-
-### O que acontece se uma transação não for válida?
-
-**Se um nó não validar uma transação, ele não a incluirá em um bloco e não a propagará para outros nós**. Isso pode acontecer se a transação for inválida, ou seja, se não atender aos critérios definidos pela rede, como o saldo insuficiente do remetente ou a tentativa de gastar a mesma moeda duas vezes. Se a transação for legítima, mas o nó não conseguir validá-la por algum motivo, ela será retransmitida para outros nós que podem validá-la e incluí-la em um bloco. A validação de transações é um processo importante para garantir a integridade e segurança da rede blockchain.
+Ele registra transações, como a troca de ativos ou dados, entre os participantes da rede . Ao contrário de um banco de dados centralizado, um livro distribuído não requer um administrador central e, consequentemente, não tem um único ponto de falha . A forma mais comum de tecnologia de livro distribuído é o blockchain, que pode ser em uma rede pública ou privada
 
 # 4. Mineração
 
@@ -94,7 +91,19 @@ A mineração em blockchain é um processo que visa garantir a segurança e a de
 
 ![mineração](assets/images/mineracao.svg)
 
-## Algoritmos, estruturas de dados e blockchain
+### O mecanismo
+
+A busca de nonce válido é um processo essencial na mineração de criptomoedas que utilizam o mecanismo de consenso Prova de Trabalho (PoW). O nonce (abreviação de "number used once") é um número aleatório que os mineradores precisam encontrar para gerar um hash que atenda aos critérios estabelecidos pela rede blockchain.
+
+>Como funciona?
+1. O minerador pega os dados do bloco, incluindo transações e o hash do bloco anterior.
+2. Ele adiciona um nonce e calcula um novo hash.
+3. Se o hash gerado estiver dentro do limite exigido pela rede (ou seja, começar com uma quantidade específica de zeros), o bloco é considerado válido e adicionado à blockchain.
+4. Se o hash não atender aos critérios, o minerador altera o nonce e tenta novamente, repetindo o processo até encontrar um nonce válido.
+
+Esse processo exige grande poder computacional, pois envolve milhões ou até bilhões de tentativas antes de encontrar um nonce que satisfaça as regras da rede.
+
+### Algoritmos, estruturas de dados e blockchain
 
 - Uma blockchain é uma estrutura de dados que armazena transações em blocos, que são encadeados sequencialmente.
 - Cada bloco contém um cabeçalho e um conjunto de transações.
@@ -110,6 +119,19 @@ As estruturas de dados usadas em uma blockchain são:
 - **Árvore de Merkle:** É utilizada para armazenar as transações em um bloco e permitir a verificação da integridade das transações sem a necessidade de verificar todas elas. Um exemplo pode ser estudado [aqui](../fundamentos/blockchain/estruturadados/merkle/README.md)
 - **Criptografia assimétrica:** É utilizada para assinatura de transações armazenadas nos blocos e para identidade dos participantes da blockchain.
 - **Redes peer-to-peer (P2P):** São utilizadas para a distribuição em diversos nós, eliminando, por exemplo, ponto único de falha.
+
+### Funcionamento da Transaction
+
+Uma transação (Transaction) no blockchain **é uma transferência de dados entre dois ou mais usuários**, que é **registrada de forma imutável em uma rede distribuída**. Uma transação pode representar a **troca de ativos digitais**, como criptomoedas ou tokens, ou a execução de contratos inteligentes, que são programas que executam ações pré-definidas. A blockchain registra transações entre os participantes da rede. A tecnologia blockchain é baseada em quatro fundamentos: o registro compartilhado das transações (ledger), o consenso para verificar as transações, um contrato que determina as regras de funcionamento das transações e a criptografia, que é o fundamento de tudo . Uma transação no blockchain segue as seguintes etapas:
+
+- **Criação**: O usuário que deseja enviar dados cria uma transação com as informações necessárias, como o endereço do destinatário, a quantidade de dados e uma assinatura digital que comprova sua identidade e autoriza a operação.
+- **Propagação**: A transação é transmitida para os outros usuários da rede, chamados de **nós**, que verificam se ela é **válida e não é duplicada**. Os nós que recebem a transação a repassam para os demais, até que todos estejam cientes da operação.
+- **Validação**: Os nós competem entre si para validar as transações e agrupá-las em **blocos**, que são conjuntos de dados que seguem um formato padrão. Para isso, eles precisam resolver um problema matemático complexo, que requer poder computacional e tempo. **O primeiro nó que resolver o problema propõe o novo bloco para a rede**.
+- **Consolidação**: Os outros nós verificam se o bloco proposto está correto e segue as regras da rede. Se houver **consenso entre os nós**, o bloco é adicionado à cadeia de blocos existente, formando um **registro cronológico e inalterável de todas as transações realizadas na rede**. O nó que propôs o bloco recebe uma recompensa em forma de dados ou criptomoedas.
+
+### O que acontece se uma transação não for válida?
+
+**Se um nó não validar uma transação, ele não a incluirá em um bloco e não a propagará para outros nós**. Isso pode acontecer se a transação for inválida, ou seja, se não atender aos critérios definidos pela rede, como o saldo insuficiente do remetente ou a tentativa de gastar a mesma moeda duas vezes. Se a transação for legítima, mas o nó não conseguir validá-la por algum motivo, ela será retransmitida para outros nós que podem validá-la e incluí-la em um bloco. A validação de transações é um processo importante para garantir a integridade e segurança da rede blockchain.
 
 ## Blocos
 

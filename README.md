@@ -20,7 +20,7 @@
 
 - Conhecimentos intermediários em **JavaScript/TypeScript**
 - Experiência básica com **Git** e terminal
-- Noções de **desenvolvimento web (React é um bônus)**
+- Noções de **desenvolvimento web)**
 
 ---
 
