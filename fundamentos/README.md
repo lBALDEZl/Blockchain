@@ -151,3 +151,6 @@ Upadhyay, N. (2020). Demystifying blockchain: A critical analysis of challenges,
 Yli-Huumo, J., Ko, D., Choi, S., Park, S., & Smolander, K. (2016). Where Is Current Research on Blockchain Technology?—A Systematic Review. *PLoS ONE, 11*. <https://doi.org/10.1371/journal.pone.0163477>
 Zhao, L., Fan, S., & Yan, J. (2016). Overview of business innovations and research opportunities in blockchain and introduction to the special issue. *Financial Innovation, 2*. <https://doi.org/10.1186/s40854-016-0049-2>
 Zutshi, A., Grilo, A., & Nodehi, T. (2021). The value proposition of blockchain technologies and its impact on Digital Platforms. *Comput. Ind. Eng., 155*, 107187. <https://doi.org/10.1016/J.CIE.2021.107187>
+
+---
+[Estrutura de dados e algoritmos](../fundamentos/estruturadados/)

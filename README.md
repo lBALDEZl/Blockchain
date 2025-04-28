@@ -39,13 +39,12 @@
 ## 📚 Conteúdo Programático (80h)
 
 🔹 [MÓDULO 1 – Fundamentos Web3 para Devs (12h)](fundamentos/)
- - Conceitos: Blockchain, nodes, contas, transações, EVM
+ - Conceitos: Blockchain 
 
- - Setup: Node, Hardhat, carteira Metamask, ferramentas CLI
+ - Estruturas de dados e algoritmos para blobkchain
+ 
+ - Ethereum
 
- - Estrutura básica de projeto Hardhat
-
- - Primeiros contratos e deploy local
 
 🔹 [MÓDULO 2 – Solidity para Devs (20h)](../blockchain/solidity/)
  - Tipos, storage vs memory, visibilidade, funções, structs
